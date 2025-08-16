@@ -2,6 +2,8 @@
 
 Computer Engineer & Python Developer, focused on Python Scripts, Python GUI, and Django.
 
+
+
 🌟 About Me
 
 🎓 B.Sc. in Computerized Information Security Engineering from UCAS — graduated with 90.8%
@@ -11,6 +13,8 @@ Computer Engineer & Python Developer, focused on Python Scripts, Python GUI, and
 💻 Professional experience in network design, operating systems, and application development (C#, Python)
 
 🧰 Passionate about building Python scripts, GUI applications, and web apps using Django.
+
+
 
 🧠 Skills & Tools
 
@@ -26,6 +30,8 @@ Networking & Security:
 
 CCNA · Ethical Hacking · Information Security · Cloud Computing 
 
+
+
 🚀 Featured Projects
 
 Python Script — Data Entry Automation Tool
@@ -36,9 +42,13 @@ Django Web App — Lightweight Content Management System
 
 Note: Links will be updated once projects are uploaded.
 
+
+
 📫 How to reach me:
 
 email: sasalem@ucas.edu.ps
+
+
 
 
 😄 Fun Facts
